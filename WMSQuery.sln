@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JXCSIMC.WMSQuery.UI", "JXCSIMC.WMSQuery.UI\JXCSIMC.WMSQuery.UI.csproj", "{4E70195C-F5F4-4975-8397-A49F6A0DFC80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{7C5EA376-553C-4D51-BB19-DC21FAC38F1F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{856CF1CA-AF5B-4F75-956D-A67D90171128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JXCSIMC.WMSQuery.Bll", "JXCSIMC.WMSQuery.Bll\JXCSIMC.WMSQuery.Bll.csproj", "{2DE6EC27-48DF-4C12-9658-4AF67D581CF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E70195C-F5F4-4975-8397-A49F6A0DFC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E70195C-F5F4-4975-8397-A49F6A0DFC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E70195C-F5F4-4975-8397-A49F6A0DFC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E70195C-F5F4-4975-8397-A49F6A0DFC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE6EC27-48DF-4C12-9658-4AF67D581CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE6EC27-48DF-4C12-9658-4AF67D581CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE6EC27-48DF-4C12-9658-4AF67D581CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE6EC27-48DF-4C12-9658-4AF67D581CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E70195C-F5F4-4975-8397-A49F6A0DFC80} = {7C5EA376-553C-4D51-BB19-DC21FAC38F1F}
+		{2DE6EC27-48DF-4C12-9658-4AF67D581CF0} = {856CF1CA-AF5B-4F75-956D-A67D90171128}
+	EndGlobalSection
+EndGlobal
